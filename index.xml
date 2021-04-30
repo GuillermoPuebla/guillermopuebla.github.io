@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Guillermo Puebla</title>
+    <link>//example.org/</link>
+    <description>Recent content in About on Guillermo Puebla</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="//example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//example.org/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//example.org/about.html</guid>
+      <description>I’m a PhD student at the University of Edinburgh working with Alex Doumas and Andrea Martin. My PhD work focuses on relational relational reasoning and analogical generalization. I study these issues through simulations with artificial neural networks, analogical inference models, and hybrid symbolic-neural systems.
+Furthermore, I’m a research associate at the University of Bristol where I study, in colaboration with Jeff Bowers, how humans and artificial neural networks generalize on the visual domain based on relational information.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>//example.org/contact.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//example.org/contact.html</guid>
+      <description> Email: guillermo.puebla@ed.ac.uk   Mailing Address  University of Edinburgh
+Department of Psychology
+Edinburgh EH8 9JZ
+United Kingdom
+  Social Twitter  Academic  Google Scholar Researchgate  </description>
+    </item>
+    
+  </channel>
+</rss>
